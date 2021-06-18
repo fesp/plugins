@@ -1,5 +1,6 @@
 ## NEXT
 
+* Add file chooser on Android
 * Add iOS UI integration test target.
 
 ## 2.0.8
